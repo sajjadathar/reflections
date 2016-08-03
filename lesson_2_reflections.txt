@@ -3,3 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	We add the files to the staging area which has to be modified. While working directory has untracked files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	there could be a situation an app be used in different environments. Tha app have different attributes. Here come the need 
+	of branches.
